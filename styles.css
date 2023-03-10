@@ -44,4 +44,6 @@ button{
     width: fit-content;
     background-color: black;
     opacity: 40%;
+    align-items: center;
+    justify-content: center;
   }
